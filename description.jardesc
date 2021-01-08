@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="D:/Wendy/Escuela/Tesis/Proyecto/AICA_201306020/AICA/AICA.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/AICA/description.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=AICA/&lt;aica.visual.seguridad{Presentacion.java[Presentacion" manifestLocation="/AICA/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=AICA/&lt;aica.utiles"/>
+        <javaElement handleIdentifier="=AICA/&lt;aica.visual"/>
+        <folder path="/AICA/lib"/>
+        <javaElement handleIdentifier="=AICA/&lt;aica.visual.seguridad"/>
+        <javaElement handleIdentifier="=AICA/&lt;imagenes"/>
+        <javaElement handleIdentifier="=AICA/&lt;ayuda.Reportes_files"/>
+        <javaElement handleIdentifier="=AICA/&lt;reportes.iReport"/>
+        <javaElement handleIdentifier="=AICA/&lt;ayuda.Requerimientos_files"/>
+        <javaElement handleIdentifier="=AICA/&lt;ayuda.calidad_files"/>
+        <javaElement handleIdentifier="=AICA/&lt;aica.visual.reportes"/>
+        <javaElement handleIdentifier="=AICA/&lt;ayuda"/>
+        <javaElement handleIdentifier="=AICA/&lt;reportes.Excel"/>
+        <javaElement handleIdentifier="=AICA/&lt;aica.model"/>
+        <javaElement handleIdentifier="=AICA/&lt;ayuda.contenido_files"/>
+        <javaElement handleIdentifier="=AICA/&lt;aica.service"/>
+        <javaElement handleIdentifier="=AICA/&lt;aica.reporte"/>
+    </selectedElements>
+</jardesc>
